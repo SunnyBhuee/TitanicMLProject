@@ -77,5 +77,6 @@ The response variable **Survived** is not available in the **Test** dataset.
 
 </ul>
 
-<HR>
-**Data Source: Kaggle.com**
+<HR></HR>
+
+*Data Source: Kaggle.com*

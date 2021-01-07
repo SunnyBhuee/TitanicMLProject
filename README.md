@@ -7,10 +7,11 @@ This is my submission for the **Kaggle** ML project using Titanic Dataset.
 <BR></BR>
 **Approach:** We use a few *Imputation* techniques (explored *KNN-Regressions, Lasso, Mean, Mode*) to ensure there is no missing data first. Then a few different Machine Learning models such **Support Vector Machines**, **Logistic Regression**, and **Random Forest** are scoped for performance. Finally, the best model, which turns out to be *Logistic regression* is used for predictions on the *Test* data. This was submitted to Kaggle as well. Although it is possible to fine tune the predictions to the level of near perfect prediction, it is not the purpose of this ***Notebook***, and overfitting is not the practice I follow or advise, as generalized models are better in the long run. 
 <HR></HR>
+
 **Datasets:** Available in **titanic** folder in the root directory
-<ul>
-<li>**Train:** *.\titanic\train.csv*</li>
-<li>**Test:** *.\titanic\test.csv*</li>
+<ul>  
+<li>Train: .\titanic\train.csv</li>
+<li>Test: .\titanic\test.csv</li>
 </ul>
 <BR></BR>
 The response variable **Survived** is not available in the **Test** dataset.
